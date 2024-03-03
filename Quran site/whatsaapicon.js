@@ -2,5 +2,5 @@
 document.addEventListener("DOMContentLoaded", function () {
     setTimeout(function () {
       document.getElementById("offchat-menu").checked = true;
-    }, 500000);
+    }, 10s);
   });
